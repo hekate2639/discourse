@@ -66,6 +66,16 @@ zh_CN:
           other: "%{count}小时前"
         x_days:
           other: "%{count}日前"
+     later:
+        x_days:
+          one: "1天前"
+          other: "%{count}天前"
+        x_months:
+          one: "1个月前"
+          other: "%{count}个月前"
+        x_years:
+          one: "1年前"
+          other: "%{count}年前"
     share:
       topic: '分享本主题的链接'
       post: '#%{postNumber} 楼'
